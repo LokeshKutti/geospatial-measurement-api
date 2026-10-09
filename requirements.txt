@@ -1,0 +1,8 @@
+Django>=5.2,<7
+djangorestframework>=3.16
+drf-spectacular>=0.28
+geopandas>=1.0
+pyogrio>=0.10
+shapely>=2.0
+pyproj>=3.6
+gunicorn>=22

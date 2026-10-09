@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Folder><name>Survey</name>
+<Placemark><name>Parcel A</name><Polygon><outerBoundaryIs><LinearRing><coordinates>80.2,13.05,0 80.21,13.05,0 80.21,13.06,0 80.2,13.06,0 80.2,13.05,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>Parcel B</name><Polygon><outerBoundaryIs><LinearRing><coordinates>80.22,13.05,0 80.23,13.05,0 80.225,13.062,0 80.22,13.05,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>Access road</name><LineString><coordinates>80.2,13.045,0 80.215,13.048,0 80.24,13.052,0</coordinates></LineString></Placemark>
+<Placemark><name>Gate</name><Point><coordinates>80.205,13.055,0</coordinates></Point></Placemark>
+</Folder></Document></kml>
